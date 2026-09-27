@@ -245,7 +245,7 @@ hokuriku-tourism-ai-governance/
 mkdir hokuriku-workspace && cd hokuriku-workspace
 git clone https://github.com/code4fukui/fukui-kanko-people-flow-data.git
 git clone https://github.com/code4fukui/fukui-kanko-trend-report.git
-git clone https://github.com/code4fukui/opendata.git
+git clone https://github.com/hokuriku-inbound-kanko/opendata.git
 git clone https://github.com/code4fukui/fukui-kanko-survey.git
 
 # 本リポジトリをクローンしてインストール
